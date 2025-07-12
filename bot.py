@@ -1,4 +1,3 @@
-#@CS_CRACKERS | @i606x 
 import os , uuid , concurrent.futures
 import tkinter as tk
 from tkinter import filedialog
@@ -441,7 +440,7 @@ Country : {Loca}
 if __name__=='__main__':
     console = Console()
     os.system('cls' if os.name == 'nt' else 'clear')
-    P = Panel('[bold yellow] Lets Check Some Hotmails \n\n[bold bright_red]1 - inbox (AIO) All applications\n\n2 - inbox One applications[/bold bright_red]\n', border_style="bright_green")
+    P = Panel('[bold yellow] Drop a Star at Git Repo  \n\n[bold bright_red]1 - inbox (AIO) All applications\n\n2 - inbox One applications[/bold bright_red]\n', border_style="bright_green")
     console.print(P)    
     i606x = input('\nSelect : ')
     os.system('cls' if os.name == 'nt' else 'clear')
